@@ -1,6 +1,7 @@
 <h3 id="running-the-first-build">Running the first build</h3>
 
 <ul>
+<li>Run <code>composer install</code></li>
 <li>Run <code>yarn</code> from the theme directory to install dependencies</li>
 <li>Update <code>bud.config.js</code> with your local dev URL</li>
 <li>
